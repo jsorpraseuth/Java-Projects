@@ -1,0 +1,3 @@
+# Java Projects
+ 
+This small application simulates a fight between a user and computer.
